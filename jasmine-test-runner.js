@@ -1,5 +1,3 @@
-//PONER TEST RUNNER EN GITHUB O EN UN DOMINIOcd jasmine-test-runner/cd jasmine-test-runner/
-/** TEST RUNNER **/
 (function () {
   var jasmineEnv = jasmine.getEnv();
   jasmineEnv.updateInterval = 1000;
